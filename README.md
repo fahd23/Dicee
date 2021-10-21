@@ -1,3 +1,3 @@
 # Dicee
 
-Live Project : [Play Now](https://fahd23.github.io/Dicee/)
+Live Project : [Play Now](https://fahddicee.netlify.app/)
